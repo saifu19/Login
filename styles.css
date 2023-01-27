@@ -33,6 +33,7 @@ body {
     border: none;
     padding: 10px;
     color: #8b8989;
+    width: 100%;
 }
 .c-input:focus {
     outline: none;
